@@ -97,6 +97,11 @@ export default {
           icon: 'group_work',
           title: 'About',
           to: '/about'
+        },
+        {
+          icon: 'login',
+          title: 'Login',
+          to: '/login'
         }
       ],
       miniVariant: false,
